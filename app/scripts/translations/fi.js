@@ -218,7 +218,7 @@ CX_quicksend                : 'PikaLähetä ', // if no appropriate translation,
 
 /* Node Switcher */
 NODE_Title                  : 'Set Up Your Custom Node',
-NODE_Subtitle               : 'To connect to a local node...',
+NODE_Subtitle               : 'Yhdistääksesi paikalliseen nodeen',
 NODE_Warning                : 'Your node must be HTTPS in order to connect to it via MyEtherWallet.com. You can [download the MyEtherWallet repo & run it locally](https://github.com/kvhnuke/etherwallet/releases/latest) to connect to any node. Or, get free SSL certificate via [LetsEncrypt](https://letsencrypt.org/)',
 NODE_Name                   : 'Node Name',
 NODE_Port                   : 'Node Port',
